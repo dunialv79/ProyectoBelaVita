@@ -1,0 +1,11 @@
+.navbar {
+ box-shadow: 2px 2px 5px  #000;
+}
+
+.main-header {
+  background: url(../img/background.jpg)
+}
+
+.background-overlay {
+  background: rgba(48, 51, 107, 0.5);
+}
